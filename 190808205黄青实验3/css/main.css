@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-size: 16px;
+	color:cornflowerblue;
+}
+h1{
+	font-size:20px;
+	color:darkcyan;
+	font-weight: bold;
+	text-align:center;
+	font-family: 方正姚体，黑体，宋体；
+		
+}
+h2{
+	font-size:16px;
+	color:#099;
+	font-weight:bold;
+	font-weight:"正常"；
+}
+p{
+	line-height: 2em;
+}
+.nav{
+	background-color: #9F0;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+	font-size: 18px;
+}
+.copyright{
+	text-align: center;
+	margin-bottom: 10px;
+}
+#wrapper{
+	margin:50px auto;
+	width: 300px;
+	height:200px;
+	border:1px solid red;
+}
+.tri{
+	width:0px;
+	height:0px;
+	margin:20px auto;
+	border-bottom:none;
+	border-left-color:transparent;
+	border-right-color:transparent;
+}
